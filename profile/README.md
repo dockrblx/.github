@@ -126,9 +126,8 @@ The core platform, API, infrastructure, and alt-detection systems **are private*
 
 However, this GitHub organization *will* host:
 
-✔️ SDKs (future — such as Node.js, Python)
-
-✔️ Documentation files
+* SDKs (future — such as Node.js, Python)
+* Documentation files
 
 **Only these public repositories will accept pull requests.**
 All other contributions should be made through the Discord server.
